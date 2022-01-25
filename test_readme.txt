@@ -2,7 +2,6 @@ Senior Project Web-App
 
 ## 1. download npm feature (node package manager) 
 We need to install node js https://nodejs.org/en/download/
-
 After downloading you can check if u have NPM installed by typing npm --version in command prompt.
 
 ## 2. download node modules
