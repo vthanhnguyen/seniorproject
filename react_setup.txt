@@ -1,0 +1,19 @@
+Senior Project Web-App
+
+## 1. download npm feature (node package manager) 
+We need to install node js https://nodejs.org/en/download/
+After downloading you can check if u have NPM installed by typing npm --version in command prompt.
+
+## 2. pull from github
+Clone my github repository : https://github.com/vthanhnguyen/seniorproject
+
+## 3. download node modules
+After cloning the repository, open up the terminal and type: 
+npx create-react-app .
+The purpose of this is just to get the "node_modules" folder
+
+## 4. Run the web-app
+Type the command in VScode terminal: npm start
+A web page will open and show what we have.
+
+Written by Thanh Nguyen
