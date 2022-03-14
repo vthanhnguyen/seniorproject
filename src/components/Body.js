@@ -5,9 +5,7 @@ function Body(){
     return(
         <div className='body'>
             <ul>
-                <li>Humidity: </li>
-                <li>Temperature:</li>
-                <li>Sunlight:</li>
+                <li>Profile_ID:</li>
             </ul>
         </div>
     )
